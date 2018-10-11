@@ -1,0 +1,8 @@
+﻿<x:Object
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="using:Akihiko.Xamarin.Forms.Xaml.Issues.Gh4062"
+    x:Class="Akihiko.Xamarin.Forms.Xaml.Issues.Gh4062.Component">
+    <x:Object.Property>
+        <local:Generic x:TypeArguments="x:Byte" />
+    </x:Object.Property>
+</x:Object>
